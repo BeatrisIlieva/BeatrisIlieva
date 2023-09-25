@@ -1,9 +1,9 @@
 ### Hi there, I'm Beatris 👋
 ---
-- 🔭 I have a master's in Stategic Leadership
-- 🔭 I have a bachelor's in Economics
 - 🔭 I am currently working on writing Django apps
 - 🌱 I am currently learning Python, HTML and CSS
+- - 🔭 I have a master's in Stategic Leadership
+- 🔭 I have a bachelor's in Economics
 - 🤔 I am planning to learn JavaScript
 - 📫 How to reach me: beatrisilieve@icloud.com
 - ⚡ Fun fact: I love learning playing guitar and chess
