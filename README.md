@@ -2,9 +2,6 @@
 
 ### Hi there, I'm Beatris 👋
 
-
-**pythonprojectsilieva/pythonprojectsilieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on writing Django apps
 - 🌱 I’m currently learning Python, HTML and CSS
 - 🤔 I'm planning to learn JavaScript
