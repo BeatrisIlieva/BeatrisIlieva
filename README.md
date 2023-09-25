@@ -32,4 +32,3 @@
 <br />
 
 ---
-echo GithubPlugin::widget(['type'=>GithubPlugin::FOLLOW, 'settings' => ['repo'=>'yii2-widgets', 'size'=>'large', 'count'=>'true']]);
