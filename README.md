@@ -5,7 +5,6 @@
 - 🔭 I am currently working on writing Django apps
 - 🌱 I am currently learning Python, HTML and CSS
 - 🤔 I am planning to learn JavaScript
-- 💬 Ask me about Cats
 - 📫 How to reach me: beatrisilieve@icloud.com
 - ⚡ Fun fact: I love learning playing guitar and chess
 ---
