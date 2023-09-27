@@ -1,6 +1,6 @@
 ### Hi there, I'm Beatris 👋
 ---
-- 🔭 I am currently working on writing Django apps
+- 💻 I am currently working on writing Django apps
 - 🌱 I am currently learning Python, HTML and CSS
 - 🔭 I have a master's in Stategic Leadership
 - 🔭 I have a bachelor's in Economics
