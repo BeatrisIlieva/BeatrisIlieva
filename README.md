@@ -1,11 +1,9 @@
 ### Hi there, I'm Beatris 👋
 ---
-- 💻 I am currently working on writing Django apps
-- 🌱 I am currently learning Python, HTML and CSS
-- 🔭 I have a master's in Stategic Leadership
-- 🔭 I have a bachelor's in Economics
-- 🤔 I am planning to learn JavaScript
-- ⚡ Fun fact: I love learning playing guitar and chess
+- 💻 Experienced in Django, PostgreSQL, HTML and CSS for personal project development
+- 🔭 Holds a master's degree in Strategic Leadership
+- 🔭 Holds a bachelor's degree in Economics
+- 🤔 Planning to embark on learning JavaScript and Django REST Framework
 ---
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrisIlieve&layout=compact&hide_border=true&theme=transparent" />
 
