@@ -1,6 +1,6 @@
 ### Hi there, I'm Beatris 👋
 ---
-- 💻 Experienced in Django, PostgreSQL, HTML and CSS for personal project development
+- 💻 Experienced in Django, PostgreSQL, HTML, CSS and AWS for personal project development
 - 🔭 Holds a master's degree in Strategic Leadership
 - 🔭 Holds a bachelor's degree in Economics
 - 🤔 Planning to embark on learning JavaScript and Django REST Framework
