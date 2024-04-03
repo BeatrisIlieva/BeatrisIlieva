@@ -5,7 +5,7 @@
 - 🔭 Holds a bachelor's degree in Economics
 - 🤔 Planning to embark on learning JavaScript and Django REST Framework
 ---
-<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrisIlieve&layout=compact&hide_border=true&theme=transparent&langs_count=9" />
+<img height="220" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrisIlieve&layout=compact&hide_border=true&theme=transparent&langs_count=9" />
 
 ---
 
