@@ -1,9 +1,9 @@
 ### Hi there, I'm Beatris 👋
 ---
-- 💻 Experienced in Django, PostgreSQL, HTML, CSS and AWS for personal project development
+- 💻 Experienced in Django, JavaScript, PostgreSQL, MongoDB, CSS and AWS for personal project development
 - 🔭 Holds a master's degree in Strategic Leadership
 - 🔭 Holds a bachelor's degree in Economics
-- 🤔 Planning to embark on learning JavaScript and Django REST Framework
+- 🤔 Planning to embark on learning React
 ---
 <img height="220" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrisIlieve&layout=compact&hide_border=true&theme=transparent&langs_count=9" />
 
@@ -11,6 +11,8 @@
 
 ### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
 
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="NodeJS" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Mongoose" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" style="padding-right:10px;" />     
