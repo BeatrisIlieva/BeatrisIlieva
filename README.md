@@ -1,6 +1,9 @@
 <img height="220" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrisIlieve&layout=compact&hide_border=true&theme=transparent&langs_count=9" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieve&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieve&langs_count=9&layout=donut&hide_border=true&theme=transparent)
+
+<img width="600" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieve&langs_count=9&layout=donut&hide_border=true&theme=transparent" alt="Top Langs" />
+
 
 ---
 
