@@ -1,4 +1,4 @@
-<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieve&langs_count=9&layout=donut&hide_border=true&theme=transparent" alt="Top Langs" />
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieve&langs_count=9&layout=donut&hide_border=true&theme=transparent" alt="Top Langs" />
 
 
 ---
