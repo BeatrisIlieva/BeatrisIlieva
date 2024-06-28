@@ -5,6 +5,7 @@
 
 <img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jest" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="GithubActions" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="NodeJS" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
