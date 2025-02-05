@@ -28,8 +28,6 @@
 <p>
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:0px;"/>
 <img align="left" alt="Jekyll" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="Jekyll" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="padding-right:0px;"/>
 </p>               
 
 <br />
