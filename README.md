@@ -20,12 +20,13 @@
 <img align="left" alt="PostgreSQL" width="29px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:0px;" />
 <img align="left" alt="MongoDB" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:0px;" />
 <img align="left" alt="Visual Studio Code" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:0px;" />
+<img align="left" alt="PyCharm" width="29px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:0px;" />
+<img align="left" alt="Postman" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:0px;"/>
 </p>
 <br />
 <br />
 <p>
-<img align="left" alt="PyCharm" width="29px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:0px;" />
-<img align="left" alt="Postman" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:0px;"/>
+
 <img align="left" alt="AWS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:0px;" />   
 <img align="left" alt="Jekyll" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="padding-right:0px;"/>
 <img align="left" alt="Cloudflare" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" style="padding-right:0px;"/>
