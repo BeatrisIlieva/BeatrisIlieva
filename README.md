@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&langs_count=12&layout=donut&hide_border=true&theme=transparent" alt="Top Langs" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrisilieva&hide=stars,contribs&theme=tokyonight&include_all_commits=true&show_icons=true) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=12&theme=tokyonight)
 
 <hr/>
 
