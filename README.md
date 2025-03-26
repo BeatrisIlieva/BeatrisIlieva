@@ -1,4 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrisilieva&hide=stars,contribs&theme=tokyonight&include_all_commits=true&show_icons=true) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=12&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beatrisilieva&hide=stars,contribs&show=icons,prs_merged_percentage,prs_merged&theme=omni" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=10&theme=omni&card_width=320&hide=Ruby" />
+</a>
 
 <hr/>
 
