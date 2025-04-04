@@ -20,25 +20,25 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
 
 <p align="left">
     <a href="https://certificate-link.com/cert3">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/htm-and-css_vpqxxa.png" width="140px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/htm-and-css_vpqxxa.png" width="110px" />
     </a> 
     <a href="https://certificate-link.com/cert3">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-orm_yhdxlc.png" width="140px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-orm_yhdxlc.png" width="110px" />
     </a> 
     <a href="https://certificate-link.com/cert3">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/postgre-sql_rriyf4.png" width="140px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/postgre-sql_rriyf4.png" width="110px" />
     </a> 
     <a href="https://certificate-link.com/cert3">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-oop_m4xe1d.png" width="140px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-oop_m4xe1d.png" width="110px" />
     </a>
     <a href="https://certificate-link.com/cert3">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784910/python-advanced_nf2vyc.png" width="140px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784910/python-advanced_nf2vyc.png" width="110px" />
     </a>
     <a href="https://certificate-link.com/cert2">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-fundamentals_iled2h.png" width="140px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-fundamentals_iled2h.png" width="110px" />
     </a>
     <a href="https://certificate-link.com/cert1">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-basics_wdkqsq.png" width="140px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-basics_wdkqsq.png" width="110px" />
     </a>
     <br>
 </p>
