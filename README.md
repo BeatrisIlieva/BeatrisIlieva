@@ -58,5 +58,5 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
 # 
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,python,html,css,sass,react,express,django,nodejs,jest,postgresql,mongodb,vscode,pycharm,postman,aws,jekyll,cloudflare,firebase,githubactions,docker,devto" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,html,css,sass,react,express,django,nodejs,jest,postgresql,mongodb,vscode,pycharm,postman,aws,cloudflare,firebase,githubactions,docker,devto" />
 </div>
