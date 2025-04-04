@@ -43,6 +43,14 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
     <br>
 </p>
 
+### 🎥 Demo Videos: A Selection of My Web Applications and Web Pages
+
+#
+
+[![MERN Gems](https://ytcards.demolab.com/?id=0aPSCCu5VB0&title=MERN+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "MERN Gems")](https://youtu.be/0aPSCCu5VB0?si=QnIQB-ZPrR1PJfkt)
+[![Django Gems](https://ytcards.demolab.com/?id=RCQqE-m7bb0&title=Django+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Django Gems")](https://youtu.be/RCQqE-m7bb0)
+
+
 ### 📊 Stats
 
 #
