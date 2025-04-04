@@ -1,4 +1,6 @@
-🍀 **I'm Bea**, a passionate learner on my journey to becoming a full-stack developer.
+### 🍀 I'm Bea
+
+**`A passionate learner striving to become a full-stack developer`**
 
 #
 
