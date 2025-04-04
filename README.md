@@ -15,11 +15,12 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
 ---
 
 ### 📜 Programming Certificates
+*Click on the certificate to view and verify its validity on the Software University website.*
 
 #
 
 <p align="left">
-    <a href="https://softuni.bg/certificates/details/237923/b3ab2baa">
+    <a href="https://softuni.bg/certificates/details/237923/b3ab2baa" target="_blank">
         <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/htm-and-css_vpqxxa.png" width="116px" />
     </a> 
     <a href="https://softuni.bg/certificates/details/193787/03b13966">
