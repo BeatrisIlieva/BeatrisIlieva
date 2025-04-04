@@ -2,11 +2,11 @@
 
 #
 
-#### 🎓 **Education & Tech Journey**
+### 🎓 **Education & Tech Journey**
 
 I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics of Tourism** from _University of National and World Economy_. Since I started learning programming in **2023**, I have been building demo **web applications** and **web pages** *daily* while studying **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS** at _Software University_.
 
-#### 🐱 **Fun Fact**
+### 🐱 **Fun Fact**
 
 I rescued a newborn kitten, **Daisy**, and she’s been my little coding companion ever since! 🐾
 
