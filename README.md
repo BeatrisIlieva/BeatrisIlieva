@@ -16,7 +16,7 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
 
 ### 📜 Programming Certificates
 
-*You can verify the certificates' authenticity on the Software University website by clicking the images or opening the links in a new tab.*
+*Verify the certificates' authenticity on the Software University website by clicking the images or opening the links in a new tab.*
 
 #
 
