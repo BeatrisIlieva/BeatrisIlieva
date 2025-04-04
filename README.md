@@ -6,7 +6,7 @@
 
 ### 🎓 **Education & Tech Journey**
 
-I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics of Tourism** from _University of National and World Economy_. Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS** at _Software University_, while building demo **web applications** and **web pages** *daily*.
+I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics of Tourism** from _University of National and World Economy_. Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS** at _Software University_, applying what I learn in each course by building demo **web applications** and **web pages** regularly.
 
 ### 🐱 **Fun Fact**
 
