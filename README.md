@@ -1,3 +1,51 @@
+🍀 **I'm Bea**, a passionate learner on my journey to becoming a full-stack developer.
+
+#
+
+#### 🎓 **Education & Tech Journey**
+
+I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics of Tourism** from _University of National and World Economy_. Since I started learning programming in **2023**, I have been building demo **web applications** and **web pages** *daily* while studying **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS** at _Software University_.
+
+#### 🐱 **Fun Fact**
+
+I rescued a newborn kitten, **Daisy**, and she’s been my little coding companion ever since! 🐾
+
+---
+
+### 📜 Programming Certificates
+
+#
+
+<p align="left">
+    <a href="https://certificate-link.com/cert3">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/htm-and-css_vpqxxa.png" width="140px" />
+    </a> 
+    <a href="https://certificate-link.com/cert3">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-orm_yhdxlc.png" width="140px" />
+    </a> 
+    <a href="https://certificate-link.com/cert3">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/postgre-sql_rriyf4.png" width="140px" />
+    </a> 
+    <a href="https://certificate-link.com/cert3">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-oop_m4xe1d.png" width="140px" />
+    </a>
+    <a href="https://certificate-link.com/cert3">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784910/python-advanced_nf2vyc.png" width="140px" />
+    </a>
+    <a href="https://certificate-link.com/cert2">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-fundamentals_iled2h.png" width="140px" />
+    </a>
+    <a href="https://certificate-link.com/cert1">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-basics_wdkqsq.png" width="140px" />
+    </a>
+    <br>
+</p>
+
+
+### 📊 Stats
+
+#
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beatrisilieva&hide=stars,contribs&show=icons,prs_merged_percentage,prs_merged&theme=omni" />
 </a>
@@ -5,46 +53,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=10&theme=omni&card_width=320&hide=Ruby" />
 </a>
 
-<hr/>
+### 🧰 Languages and Tools
 
-### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
+# 
 
-<p>
-<img align="left" alt="JavaScript" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:0px;" />
-<img align="left" alt="Python" width="29px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:0px;" />
-<img align="left" alt="HTML" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:0px;" />
-<img align="left" alt="CSS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:0px;" />
-<img align="left" alt="Sass" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="React" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:0px;" />
-<img align="left" alt="Express" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="Django" width="29px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:0px;" />
-<img align="left" alt="NodeJS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:0px;" />
-<img align="left" alt="Mongoose" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" style="padding-right:0px;" />   
-<img align="left" alt="Handlebars" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-line.svg" style="padding-right:0px;" />   
-<img align="left" alt="Jest" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="padding-right:0px;"/>
-<img align="left" alt="PostgreSQL" width="29px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:0px;" />
-<img align="left" alt="MongoDB" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:0px;" />
-<img align="left" alt="Visual Studio Code" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:0px;" />
-<img align="left" alt="PyCharm" width="29px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:0px;" />
-<img align="left" alt="Postman" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:0px;"/>
-</p>
-<br />
-<br />
-<p>
-
-<img align="left" alt="AWS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:0px;" />   
-<img align="left" alt="Jekyll" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="Cloudflare" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="FireBase" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="GithubActions" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="padding-right:0px;"/>
-<img align="left" alt="Docker" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:0px;" />
-
-          
-          
-</p>               
-
-<br />
-<br />
-
-
-
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=javascript,python,html,css,sass,react,express,django,nodejs,jest,postgresql,mongodb,vscode,pycharm,postman,aws,jekyll,cloudflare,firebase,githubactions,docker,devto" />
+</div>
