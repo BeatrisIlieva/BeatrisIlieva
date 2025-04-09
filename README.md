@@ -1,6 +1,6 @@
 ### 🍀 I'm Bea
 
-**`A passionate learner striving to become a full-stack developer`**
+**`A dedicated learner on a journey to become a full-stack developer`**
 
 #
 
@@ -54,7 +54,7 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
 [![Django Gems](https://ytcards.demolab.com/?id=RCQqE-m7bb0&title=Django+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Django Gems")](https://youtu.be/RCQqE-m7bb0)
 [![Flexbox challenge](https://ytcards.demolab.com/?id=RDATsh-SHCE&title=Flexbox+Challenge&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Flexbox challenge")](https://youtu.be/RDATsh-SHCE)
 [![Event Loop](https://ytcards.demolab.com/?id=LX0Mky7DvFc&title=Event+Loop&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Event Loop")](https://youtu.be/LX0Mky7DvFc)
-[![JS Gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=JS+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "JS Gems")](https://youtu.be/G62I2oleWCg)
+[![Node.js Gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=Node.js+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Node.js Gems")](https://youtu.be/G62I2oleWCg)
 
 
 
