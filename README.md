@@ -53,19 +53,6 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 [![flexbox-challenge](https://ytcards.demolab.com/?id=RDATsh-SHCE&title=flexbox-challenge&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "flexbox-challenge")](https://youtu.be/RDATsh-SHCE)
 [![node.js-gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=node.js-gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "node.js-gems")](https://youtu.be/G62I2oleWCg)
 [![event-loop](https://ytcards.demolab.com/?id=LX0Mky7DvFc&title=event-loop&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "event-loop")](https://youtu.be/LX0Mky7DvFc)
-[![form-suite](https://ytcards.demolab.com/?id=3qK27YcqFSs&title=form-suite&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "form-suite")](https://www.youtube.com/watch?v=3qK27YcqFSs)
-
-### 🗃️ Projects Repositories
-
-#
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=mern-gems-v2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=mern-gems-v1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=django-gems&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=flexbox-challenge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=node.js-gems&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=event-loop&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=form-suite&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Stats
 
