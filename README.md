@@ -1,16 +1,14 @@
 ### 🍀 I'm Bea
 
-**`A dedicated learner on a journey to become a full-stack developer`**
+**`Determined to grow into a full-stack developer, one commit at a time`**
 
 #
 
 ### 🎓 **Education & Tech Journey**
 
-I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics of Tourism** from _University of National and World Economy_. Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS** at _Software University_, applying what I learn in each course by building demo **web applications** and **web pages** regularly.
+I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics** from _University of National and World Economy_. 
 
-### 🐱 **Fun Fact**
-
-I rescued a newborn kitten, **Daisy**, and she’s been my little coding companion ever since! 🐾
+Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS** at _Software University_, applying what I learn in each course by building demo **web applications** and **web pages**.
 
 ---
 
@@ -45,7 +43,7 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
     <br>
 </p>
 
-### 🎥 Demo Videos: A Selection of My Web Applications and Web Pages
+### 🎬 See My Projects in Action
 
 #
 
@@ -63,9 +61,6 @@ I rescued a newborn kitten, **Daisy**, and she’s been my little coding compani
 
 #
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beatrisilieva&hide=stars,contribs&show=icons,prs_merged_percentage,prs_merged&theme=omni" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=10&theme=omni&card_width=320&hide=Ruby" />
 </a>
