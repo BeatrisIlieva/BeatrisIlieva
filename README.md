@@ -53,6 +53,7 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 [![Flexbox challenge](https://ytcards.demolab.com/?id=RDATsh-SHCE&title=Flexbox+Challenge&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Flexbox challenge")](https://youtu.be/RDATsh-SHCE)
 [![Event Loop](https://ytcards.demolab.com/?id=LX0Mky7DvFc&title=Event+Loop&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Event Loop")](https://youtu.be/LX0Mky7DvFc)
 [![Node.js Gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=Node.js+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Node.js Gems")](https://youtu.be/G62I2oleWCg)
+[![form-suite](https://ytcards.demolab.com/?id=3qK27YcqFSs&title=form-suite&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "form-suite")](https://www.youtube.com/watch?v=3qK27YcqFSs)
 
 
 
