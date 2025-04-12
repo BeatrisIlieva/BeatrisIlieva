@@ -47,16 +47,15 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 
 #
 
-[![MERN Gems-V2](https://ytcards.demolab.com/?id=0aPSCCu5VB0&title=MERN+Gems+V2&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "MERN Gems-V2")](https://youtu.be/0aPSCCu5VB0)
-[![MERN Gems-V1](https://ytcards.demolab.com/?id=MTtAupdKb5A&title=MERN+Gems+V1&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "MERN Gems-V1")](https://youtu.be/MTtAupdKb5A)
-[![Django Gems](https://ytcards.demolab.com/?id=RCQqE-m7bb0&title=Django+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Django Gems")](https://youtu.be/RCQqE-m7bb0)
-[![Flexbox challenge](https://ytcards.demolab.com/?id=RDATsh-SHCE&title=Flexbox+Challenge&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Flexbox challenge")](https://youtu.be/RDATsh-SHCE)
-[![Event Loop](https://ytcards.demolab.com/?id=LX0Mky7DvFc&title=Event+Loop&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Event Loop")](https://youtu.be/LX0Mky7DvFc)
-[![Node.js Gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=Node.js+Gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "Node.js Gems")](https://youtu.be/G62I2oleWCg)
+[![mern-gems-v2](https://ytcards.demolab.com/?id=0aPSCCu5VB0&title=mern-gems-v2&lang=en&timestamp=0&background_color=%230d1117&title_color=%ff79c6&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "mern-gems-v2")](https://youtu.be/0aPSCCu5VB0)
+[![mern-gems-v1](https://ytcards.demolab.com/?id=MTtAupdKb5A&title=mern-gems-v1&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "mern-gems-v1")](https://youtu.be/MTtAupdKb5A)
+[![django-gems](https://ytcards.demolab.com/?id=RCQqE-m7bb0&title=django-gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "django-gems")](https://youtu.be/RCQqE-m7bb0)
+[![flexbox-challenge](https://ytcards.demolab.com/?id=RDATsh-SHCE&title=flexbox-challenge&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "flexbox-challenge")](https://youtu.be/RDATsh-SHCE)
+[![event-loop](https://ytcards.demolab.com/?id=LX0Mky7DvFc&title=event-loop&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "event-loop")](https://youtu.be/LX0Mky7DvFc)
+[![node.js-gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=node.js-gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "node.js-gems")](https://youtu.be/G62I2oleWCg)
 [![form-suite](https://ytcards.demolab.com/?id=3qK27YcqFSs&title=form-suite&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "form-suite")](https://www.youtube.com/watch?v=3qK27YcqFSs)
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=mern-gems&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Stats
 
