@@ -47,7 +47,7 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 
 #
 
-[![mern-gems-v2](https://ytcards.demolab.com/?id=0aPSCCu5VB0&title=mern-gems-v2&lang=en&timestamp=0&background_color=%230d1117&title_color=%ff79c6&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "mern-gems-v2")](https://youtu.be/0aPSCCu5VB0)
+[![mern-gems-v2](https://ytcards.demolab.com/?id=0aPSCCu5VB0&title=mern-gems-v2&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "mern-gems-v2")](https://youtu.be/0aPSCCu5VB0)
 [![mern-gems-v1](https://ytcards.demolab.com/?id=MTtAupdKb5A&title=mern-gems-v1&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "mern-gems-v1")](https://youtu.be/MTtAupdKb5A)
 [![django-gems](https://ytcards.demolab.com/?id=RCQqE-m7bb0&title=django-gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "django-gems")](https://youtu.be/RCQqE-m7bb0)
 [![flexbox-challenge](https://ytcards.demolab.com/?id=RDATsh-SHCE&title=flexbox-challenge&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "flexbox-challenge")](https://youtu.be/RDATsh-SHCE)
@@ -55,14 +55,14 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 [![node.js-gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=node.js-gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "node.js-gems")](https://youtu.be/G62I2oleWCg)
 [![form-suite](https://ytcards.demolab.com/?id=3qK27YcqFSs&title=form-suite&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "form-suite")](https://www.youtube.com/watch?v=3qK27YcqFSs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=mern-gems&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrisilieva&repo=mern-gems&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Stats
 
 #
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=10&theme=omni&card_width=320&hide=Ruby" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=10&theme=dark&card_width=320&hide=Ruby" />
 </a>
 
 ### 🧰 Languages and Tools
