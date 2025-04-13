@@ -62,7 +62,7 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
   <img align="center" height=172 src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=6&theme=dark&card_width=320&hide=Ruby&hide_title=true" />
 </a>
 
-### 🧰 Tools
+### 🧰 Development Toolkit
 
 # 
 
