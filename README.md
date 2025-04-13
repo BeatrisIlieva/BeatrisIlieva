@@ -59,7 +59,7 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 #
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=6&theme=dark&card_width=320&hide=Ruby&hide_title=true" />
+  <img align="center" height=172 src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=6&theme=dark&card_width=320&hide=Ruby&hide_title=true" />
 </a>
 
 ### 🧰 Tools
