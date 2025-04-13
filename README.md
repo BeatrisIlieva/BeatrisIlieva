@@ -2,7 +2,7 @@
 
 **`Determined to grow into a full-stack developer, one commit at a time`**
 
-I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics** from _University of National and World Economy_. 
+I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics** from the _University of National and World Economy_. 
 
 I’m following _Software University’s_ web development curriculum, learning technologies such as **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS**. After each course, I build demo **web applications** and **web pages** to put my knowledge into practice.
 
