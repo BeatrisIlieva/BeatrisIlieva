@@ -1,10 +1,6 @@
-### 🍀 I'm Bea
+# 🍀 Beatris Ilieva
 
 **`Determined to grow into a full-stack developer, one commit at a time`**
-
-#
-
-### 🎓 **Education & Tech Journey**
 
 I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics** from _University of National and World Economy_. 
 
@@ -15,8 +11,6 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 ### 📜 Programming Certificates
 
 *Verify the certificates' authenticity on the Software University website by clicking the images or opening the links in a new tab.*
-
-#
 
 <p align="left">
     <a href="https://softuni.bg/certificates/details/237923/b3ab2baa" target="_blank">
@@ -43,9 +37,9 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
     <br>
 </p>
 
-### 🎬 Projects in Action
-
 #
+
+### 🎬 Projects in Action
 
 [![mern-gems-v2](https://ytcards.demolab.com/?id=0aPSCCu5VB0&title=mern-gems-v2&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "mern-gems-v2")](https://youtu.be/0aPSCCu5VB0)
 [![mern-gems-v1](https://ytcards.demolab.com/?id=MTtAupdKb5A&title=mern-gems-v1&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "mern-gems-v1")](https://youtu.be/MTtAupdKb5A)
@@ -54,17 +48,17 @@ Since **2022**, I have been studying **Python**, **PostgreSQL**, **Django**, **J
 [![node.js-gems](https://ytcards.demolab.com/?id=G62I2oleWCg&title=node.js-gems&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "node.js-gems")](https://youtu.be/G62I2oleWCg)
 [![event-loop](https://ytcards.demolab.com/?id=LX0Mky7DvFc&title=event-loop&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=1&width=250&border_radius=5 "event-loop")](https://youtu.be/LX0Mky7DvFc)
 
-### 📊 Most Used Languages
-
 #
+
+### 📊 Most Used Languages
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height=172 src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=6&theme=dark&card_width=320&hide=Ruby&hide_title=true" />
 </a>
 
-### 🧰 Development Toolkit
+#
 
-# 
+### 🧰 Development Toolkit
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,python,html,css,sass,react,express,django,nodejs,jest,postgresql,mongodb,vscode,pycharm,postman,aws,cloudflare,firebase,githubactions,docker,devto" />
