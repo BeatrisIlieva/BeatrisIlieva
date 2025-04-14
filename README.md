@@ -12,7 +12,7 @@ I’m following _Software University’s_ web development curriculum, learning t
 
 *Verify the certificates' authenticity on the Software University website by clicking the images or opening the links in a new tab.*
 
-<p align="center">
+<p align="left">
         <a href="https://softuni.bg/certificates/details/242263/8c6a2b9f">
         <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1744638746/js-front-end_bytcnl.png" width="162px" />
     </a> 
@@ -25,7 +25,7 @@ I’m following _Software University’s_ web development curriculum, learning t
     <br>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://softuni.bg/certificates/details/185983/50925b30">
         <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/postgre-sql_rriyf4.png" width="162px" />
     </a> 
