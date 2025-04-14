@@ -12,27 +12,34 @@ I’m following _Software University’s_ web development curriculum, learning t
 
 *Verify the certificates' authenticity on the Software University website by clicking the images or opening the links in a new tab.*
 
-<p align="left">
+<p align="center">
+        <a href="https://softuni.bg/certificates/details/242263/8c6a2b9f">
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1744638746/js-front-end_bytcnl.png" width="162px" />
+    </a> 
     <a href="https://softuni.bg/certificates/details/237923/b3ab2baa" target="_blank">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/htm-and-css_vpqxxa.png" width="116px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/htm-and-css_vpqxxa.png" width="162px" />
     </a> 
     <a href="https://softuni.bg/certificates/details/193787/03b13966">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-orm_yhdxlc.png" width="116px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-orm_yhdxlc.png" width="162px" />
     </a> 
+    <br>
+</p>
+
+<p align="center">
     <a href="https://softuni.bg/certificates/details/185983/50925b30">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/postgre-sql_rriyf4.png" width="116px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/postgre-sql_rriyf4.png" width="162px" />
     </a> 
     <a href="https://softuni.bg/certificates/details/180855/bb937ca4">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-oop_m4xe1d.png" width="116px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-oop_m4xe1d.png" width="162px" />
     </a>
     <a href="https://softuni.bg/certificates/details/173816/2932f905">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784910/python-advanced_nf2vyc.png" width="116px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784910/python-advanced_nf2vyc.png" width="162px" />
     </a>
     <a href="https://softuni.bg/certificates/details/167232/525747d6">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-fundamentals_iled2h.png" width="116px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-fundamentals_iled2h.png" width="162px" />
     </a>
     <a href="https://softuni.bg/certificates/details/143335/0a97348e">
-        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-basics_wdkqsq.png" width="116px" />
+        <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/programming-basics_wdkqsq.png" width="162px" />
     </a>
     <br>
 </p>
