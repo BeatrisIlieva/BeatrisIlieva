@@ -2,9 +2,9 @@
 
 **`Determined to grow into a full-stack developer, one commit at a time`**
 
-I hold a **Master's in Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's in Economics** from the _University of National and World Economy_. 
+I hold a **Master's** in **Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's** in **Economics** from the _University of National and World Economy_. 
 
-I’m following _Software University’s_ web development curriculum, learning technologies such as **Python**, **PostgreSQL**, **Django**, **JavaScript**, **HTML**, and **CSS**. After each course, I build demo **web applications** and **web pages** to put my knowledge into practice.
+I'm currently following the _Software University’s_ web development curriculum, where I'm learning technologies like **Python**, **JavaScript**, **TypeScript**, **PostgreSQL**, **Django**,  **HTML**, and **CSS**. After each course, I build demo **web applications** and **pages** to apply what I've learned in practice. In my free time, I'm also exploring **React**, and my next goal is to start learning about **artificial intelligence** (AI).
 
 ---
 
@@ -22,8 +22,6 @@ I’m following _Software University’s_ web development curriculum, learning t
     <a href="https://softuni.bg/certificates/details/193787/03b13966">
         <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/python-orm_yhdxlc.png" width="162px" />
     </a> 
-</p>
-<p align="left">
     <a href="https://softuni.bg/certificates/details/185983/50925b30">
         <img src="https://res.cloudinary.com/dpgvbozrb/image/upload/v1743784909/postgre-sql_rriyf4.png" width="162px" />
     </a> 
