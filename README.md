@@ -8,7 +8,8 @@ I'm currently following the _Software University’s_ web development curriculum
 
 ---
 
-### 📜 Programming Certificates
+### 📜 Programming Certificates *(Average Grade: 6.00)*
+> _Grade scale: 2.00 (lowest) to 6.00 (highest)_
 
 *Verify the certificates' authenticity on the Software University website by clicking the images or opening the links in a new tab.*
 
