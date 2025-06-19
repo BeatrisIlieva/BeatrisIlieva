@@ -4,7 +4,7 @@
 
 I hold a **Master's degree** in **Strategic Leadership** from _New Bulgarian University_ and a **Bachelor's degree** in **Economics** from the _University of National and World Economy_. 
 
-I'm currently following the _Software University’s_ web development curriculum, where I'm learning technologies like **Python**, **JavaScript**, **TypeScript**, **PostgreSQL**, **Django**, **HTML** and **CSS**, as well as **Artificial Intelligence for Developers**. After each course, I build demo **web applications** and **pages** to apply what I've learned. In my free time, I explore **React** and have also completed demo projects using **Node.js**, **Express.js**, and **MongoDB**.
+I'm currently following the _Software University’s_ web development curriculum, where I'm learning technologies like **Python**, **JavaScript**, **TypeScript**, **PostgreSQL**, **HTML**, **CSS** and **Django**, as well as **Artificial Intelligence for Developers**. After each course, I build demo **web applications** and **pages** to apply what I've learned. In my free time, I explore **React** and have also completed demo projects using **Node.js**, **Express.js**, and **MongoDB**.
 
 ---
 
