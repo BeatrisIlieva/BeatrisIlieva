@@ -67,5 +67,5 @@ I'm currently following the _Software University’s_ web development curriculum
 ### 🧰 Development Toolkit
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,python,html,css,sass,react,express,django,nodejs,jest,postgresql,mongodb,vscode,pycharm,postman,aws,cloudflare,firebase,githubactions,docker,devto" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,ts,html,css,sass,react,express,django,nodejs,jest,postgresql,mongodb,vscode,pycharm,postman,aws,cloudflare,firebase,githubactions,docker,devto" />
 </div>
