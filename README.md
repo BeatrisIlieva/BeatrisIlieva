@@ -59,7 +59,7 @@ I'm currently following the _Software University’s_ web development curriculum
 ### 📊 Most Used Languages
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=172 src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=6&theme=dark&card_width=320&hide=Ruby&hide_title=true" />
+  <img align="center" height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisilieva&layout=compact&langs_count=8&theme=dark&card_width=320&hide=Ruby&hide_title=true" />
 </a>
 
 #
